@@ -1,0 +1,25 @@
+{
+    "name": "weida/oauth2",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Weida\\Oauth2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sgenmi",
+            "email": "sgenmi@gmail.com"
+        }
+    ],
+    "require": {
+        "weida/oauth2-core": "dev-develop"
+    },
+    "minimum-stability": "dev",
+    "repositories":[
+        {
+            "type":"path",
+            "url":"/Users/sgenmi/Documents/project/weida/oauth2-core"
+        }
+    ]
+}
