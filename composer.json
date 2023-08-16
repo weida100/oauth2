@@ -13,13 +13,6 @@
         }
     ],
     "require": {
-        "weida/oauth2-core": "dev-develop"
-    },
-    "minimum-stability": "dev",
-    "repositories":[
-        {
-            "type":"path",
-            "url":"/Users/sgenmi/Documents/project/weida/oauth2-core"
-        }
-    ]
+        "weida/oauth2-core": "^v0.0.1"
+    }
 }
